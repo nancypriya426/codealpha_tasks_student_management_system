@@ -1,8 +1,4 @@
-# codealpha_tasks_student_management_system
-A menu-driven Student Management System in C using structures and file handling.
-
 # CodeAlpha Task 3 - Student Management System
-
 ## Objective
 Develop a C program to manage student records using structures and file handling.
 
